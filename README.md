@@ -12,6 +12,12 @@ This project facilitates prompt generation and manipulation to optimize model pe
 - **Task-Agnostic Prompting**: Enable seamless integration with various LLM tasks such as text generation, classification, translation, and more.
 - **Scalability**: Designed to scale efficiently for large datasets and high-volume inference tasks.
 
+## Usage
+- **Configuration: Customize prompt generation and optimization settings according to your specific requirements.
+- **Integration: Integrate the prompting framework into your existing LLM pipeline or use it as a standalone tool for prompt generation.
+- **Fine-tuning: Experiment with different prompt configurations and fine-tuning strategies to optimize model performance.
+
+
 ## Installation
 To get started with the framework, clone this repository to your local machine and install the required dependencies by running:
 ```bash
