@@ -21,3 +21,6 @@ This project facilitates prompt generation and manipulation to optimize model pe
 To get started with the framework, clone this repository to your local machine and install the required dependencies by running:
 ```bash
 pip install -r requirements.txt
+```
+This Project Nvidia's CUDA tech for speeding up the process of learning. So also download the required Software and tools related.
+
