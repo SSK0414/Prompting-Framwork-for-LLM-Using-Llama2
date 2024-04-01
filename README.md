@@ -24,3 +24,11 @@ pip install -r requirements.txt
 ```
 This Project Nvidia's CUDA tech for speeding up the process of learning. So also download the required Software and tools related.
 
+## Structure
+
+- `llama_2_working..py`: Main Python script utilizes the Hugging Face Transformers library to interact with the Llama-2 language model for generating responses based on a prompt.
+- `pdf_extraction.pi`: This Python script utilizes the PyPDF2 library to extract text from a PDF file.
+- `README.md`: Documentation file providing an overview of the project.
+
+## License
+This project is licensed under the MIT License
