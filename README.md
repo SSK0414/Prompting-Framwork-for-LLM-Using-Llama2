@@ -26,9 +26,13 @@ This Project Nvidia's CUDA tech for speeding up the process of learning. So also
 
 ## Structure
 
-- `llama_2_working..py`: Main Python script utilizes the Hugging Face Transformers library to interact with the Llama-2 language model for generating responses based on a prompt.
-- `pdf_extraction.pi`: This Python script utilizes the PyPDF2 library to extract text from a PDF file.
+- `llama_2_working.py`: Main Python script utilizes the Hugging Face Transformers library to interact with the Llama-2 language model for generating responses based on a prompt.
+- `pdf_extraction.py`: This Python script utilizes the PyPDF2 library to extract text from a PDF file.
 - `README.md`: Documentation file providing an overview of the project.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or create a pull request with your suggestions or improvements.
 
 ## License
 This project is licensed under the MIT License
