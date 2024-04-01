@@ -22,7 +22,7 @@ To get started with the framework, clone this repository to your local machine a
 ```bash
 pip install -r requirements.txt
 ```
-This Project Nvidia's CUDA tech for speeding up the process of learning. So also download the required Software and tools related.
+This project utilizes Nvidia's CUDA technology for speeding up the process of learning. Make sure you have CUDA installed on your system. If not, download and install the CUDA Toolkit from the Nvidia website. Additionally, ensure that you have the necessary GPU drivers and CUDA-compatible hardware for optimal performance.
 
 ## Structure
 
